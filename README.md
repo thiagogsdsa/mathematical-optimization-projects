@@ -20,7 +20,7 @@ This repository organizes a series of mathematical optimization projects, arrang
 
 ### 1. Linear Programming (LP)
 
-- **Folder:** `linear_programming`
+- **Folder:** `Production_Mix_Optimization`
 - **Description:** Production mix optimization maximizing profit with linear constraints.
 - **Key Tools:** PuLP, CBC Solver
 - **Status:** Completed  
