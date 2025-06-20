@@ -36,7 +36,7 @@ Where:
 
 - $\mathbf{x} := [x_1, x_2, \ldots, x_n]^\top$ is the vector of production quantities
 - $\mathbf{p} := [p_1, p_2, \ldots, p_n]^\top$ is the profit per unit vector
-- $ A := [r_{ij}]$ is the $m \times n$ resource consumption matrix
+- $ A := [r_{ij}] $ is the $m \times n$ resource consumption matrix
 - $\mathbf{b} := [b_1, b_2, \ldots, b_m]^\top$ is the resource availability vector
 - $n$ is the number of products
 - $m$ is the number of resource types
