@@ -16,6 +16,7 @@ This repository organizes a series of mathematical optimization projects, arrang
 | 6     | Multi-Objective Optimization       | Solve conflicting-goal problems using Pareto optimality and scalarization.                      | 🗓️ Planned     |
 
 ---
+> Note: In this repository, NLP refers to Nonlinear Programming, not Natural Language Processing — though I work on both! 😄
 
 ## Projects
 
