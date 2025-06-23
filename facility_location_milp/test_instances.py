@@ -74,12 +74,12 @@ def large_instance():
 
 
 if __name__ == "__main__":
-    print("✅ Small instance:")
+    print(" Small instance:")
     print(small_instance())
-    print("\n✅ Medium instance (summary):")
+    print("\n Medium instance (summary):")
     mid = medium_instance()
     print(f"{len(mid['fixed_costs'])} facilities, {len(mid['demands'])} customers")
 
-    print("\n✅ Large instance (summary):")
+    print("\n Large instance (summary):")
     large = large_instance()
     print(f"{len(large['fixed_costs'])} facilities, {len(large['demands'])} customers")
