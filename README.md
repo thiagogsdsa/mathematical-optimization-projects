@@ -9,8 +9,8 @@ This repository organizes a series of mathematical optimization projects, arrang
 | Level | Project                          | Description                                                                               | Status         |
 | ----- | -------------------------------- | ----------------------------------------------------------------------------------------- | -------------- |
 | 1     | Linear Programming (LP)          | Production mix optimization with continuous decision variables and resource constraints.  | ✅ Completed   |
-| 2     | Facility Location (MILP)         | Classic mixed-integer model for choosing optimal facility placement based on fixed costs. | 🚧 In Progress |
-| 3     | Knapsack Problem (IP)            | 0-1 knapsack variants modeling binary decisions under capacity constraints.               | 🗓️ Planned   |
+| 2     | Facility Location (MILP)         | Classic mixed-integer model for choosing optimal facility placement based on fixed costs. | ✅ Completed |
+| 3     | Knapsack Problem (IP)            | 0-1 knapsack variants modeling binary decisions under capacity constraints.               | 🚧 In Progress  |
 | 4     | Workforce Scheduling (IP / MILP) | Scheduling shifts with integer constraints and fairness criteria.                         | 🗓️ Planned   |
 | 5     | Portfolio Optimization (NLP)     | Optimize asset allocation with nonlinear constraints (e.g., risk measures).               | 🗓️ Planned   |
 | 6     | Multi-Objective Optimization     | Solve conflicting-goal problems using Pareto optimality and scalarization.                | 🗓️ Planned   |
